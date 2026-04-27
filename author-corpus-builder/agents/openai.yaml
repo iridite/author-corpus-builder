@@ -1,0 +1,4 @@
+interface:
+  display_name: "Author Corpus Builder"
+  short_description: "Turn self-interviews into creator corpus assets"
+  default_prompt: "Use $author-corpus-builder to generate a self-interview and turn my answers into a reusable creator corpus."
